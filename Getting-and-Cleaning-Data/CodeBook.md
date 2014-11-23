@@ -1,6 +1,6 @@
 Introduction
 ============
-The refined report consists of the mean and standard deviation related variabless. Only variables ending with "mean()" or ending with "std()" were included int he refined report. Following is the description that came with the orignal set of data. The variable names were preserved so that the tidy data can easily be compared to the original report.
+The refined report consists of the mean and standard deviation related variables. Only variables ending with "mean()" or ending with "std()" were included int he refined report. The variable names were preserved so that the tidy data can easily be compared to the original report. Following is the description of the variables that came with the original data.
 
 Feature Selection 
 =================
